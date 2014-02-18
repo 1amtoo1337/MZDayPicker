@@ -1,6 +1,9 @@
 MZDayPicker
 ===========
 
+this is a fork of the original to include cocoapods
+
+
 An iOS day picker to allow users to select date
 
 [![](https://raw.github.com/m1entus/MZDayPicker/master/Screens/screen1.png)](https://raw.github.com/m1entus/MZDayPicker/master/Screens/screen1@2x.png)
